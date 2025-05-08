@@ -6,6 +6,7 @@ body {
 * {
 	font-family: 'Inter';
 	font-style: normal;
+	line-height: 1.2;
 }
 
 .top-header {
@@ -91,7 +92,7 @@ body {
 	width: 60%;
 }
 
-#about-me p {
+.about-me__content {
 	width: 80%;
 	font-size: 14px;
 }
@@ -193,7 +194,10 @@ body {
 	justify-content: space-between;
 	display: flex;
 	padding: 2em 0;
+}
 
+.service__description p{
+	line-height: 1.5;
 }
 
 .service {
