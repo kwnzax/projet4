@@ -261,5 +261,3 @@
     }
   };
 })(jQuery);
-
-console.log(options)
