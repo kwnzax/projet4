@@ -261,3 +261,5 @@
     }
   };
 })(jQuery);
+
+console.log(options)
